@@ -72,9 +72,9 @@ E-mail: help.oneteam@gmail.com
 
 ### Team’s Experience
 
-John Duriman - Software Engineer__
+John Duriman - Software Engineer
 
-Aleksander Aleksandrov - Front-End Developer__
+Aleksander Aleksandrov - Front-End Developer  
 Alek has 8 years of professional front-end development experience in numerous industries. With Javascript as his specialty, he is extremely efficient in creating the front-end experience for users as well as being able to work in a back-end work environment as well. He is also well-versed in frameworks such as Angular, React, and more which allows him to be easily adaptive to any development structure.
 LinkedIn: https://www.linkedin.com/in/aleksandar-aleksandrov-128b5172/
 
