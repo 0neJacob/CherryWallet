@@ -59,16 +59,14 @@ Contact Name: Jacob Berroya
 Contact Email:
 Website: This website is currently under construction, and will be created prior to the launch of the product for users to visit.
 
+
+
 ### Legal Structure
 
 Cherry Wallet is maintained by One Team in which no legal entity has been created. The following is our information for direct communication:
 
 Mailing Address: 
-E-mail:
-Twitter:
-Telegram:
-
-
+E-mail: help.oneteam@gmail.com
 
 
 
@@ -76,16 +74,18 @@ Telegram:
 
 John Duriman - Software Engineer
 
-
 Aleksander Aleksandrov - Front-End Developer
-
+Alek has 8 years of professional front-end development experience in numerous industries. With Javascript as his specialty, he is extremely efficient in creating the front-end experience for users as well as being able to work in a back-end work environment as well. He is also well-versed in frameworks such as Angular, React, and more which allows him to be easily adaptive to any development structure.
+LinkedIn: https://www.linkedin.com/in/aleksandar-aleksandrov-128b5172/
 
 Brandon Belchar - Software Engineer
+Brandon has more than 5 years of professional Software Engineer experience ranging from Game Development to Machine Learning. He is proficient in numerous programming languages and is experienced in all parts of the development process. Notably, he is also the CEO of a game development company which has released onto the Steam platform.
+LinkedIn: https://www.linkedin.com/in/brandonbelchar/
 
 
 Jacob Berroya - Product Designer (UX/UI)
-
-
+Jacob has more than 7 years of design experience and currently works in the Secret Network ecosystem as a Product Designer. With years of experience in design, he has overseen the design and launch of a successful blockchain explorer and web wallet for the respective community.
+Portfolio: https://www.jacoblberroya.com/
 
 
 ### Team Code Repos
@@ -94,70 +94,59 @@ Jacob Berroya - Product Designer (UX/UI)
 
 
 
-Development Roadmap
+## Development Roadmap
 ### Milestones - These milestones may be completed previous to the estimated completion date. Updates will be made available to the public on a recurring basis.
 
 ### M1: 
 Estimated Completion: March 2022
 Costs: $9,000 (4 contributors): 
 
-UX/UI Design: Early UX/UI with High Fidelity Prototypes and Mock-Ups
-Wallet Functionalities: Account creation, balance transfers, wallet injection
+**UX/UI Design:** Early UX/UI with High Fidelity Prototypes and Mock-Ups
+**Wallet Functionalities:** Account creation, balance transfers, wallet injection, etc.
 
 
-Number
-Deliverable 
-Specification
-0a.
-License
-Apache License, Version 2.0
-0b.
-Description
-We will implement the ability to send, receive, and transfer funds with an early UX/UI design. Furthermore, users will be able to create and manage accounts and authorize transactions.
-0c.
-Documentation
-We will provide documentation for users on how to navigate through the application if they need a reference 
-0d.
-Testing
-You can install the latest version of Cherry Wallet by searching it in the Google Chrome Web Store 
-1.
-Core Component
-Account Creation, Importing, and Backup | Wallet to Wallet Transfers | Wallet Injection | Basic Finance Inquiries (asset review, balance history, transfer records)
-
+| Number | Deliverable | Specification |
+| ------------- | ------------- | ------------- |
+| 0a. | License | Apache License, Version 2.0
+| 0b. | Description | We will implement the ability to send, receive, and transfer funds with an early UX/UI design. Furthermore, users will be able to create and manage accounts and authorize transactions. |
+| 0c. | Documentation | We will provide documentation for users on how to navigate through the application if they need a reference | 
+| 0d. | Testing | You can install the latest version of Cherry Wallet by searching it in the Google Chrome Web Store | 
+| 1. | Core Component | Account Creation, Importing, and Backup | Wallet to Wallet Transfers | Wallet Injection | Basic Finance Inquiries (asset review, balance history, transfer records) |
+| 2. | Website Launch | One Team will include the launch of a website as a general place for information, tutorials, etc. |
 
 
 ### M2:
 Estimated Completion: June 2022
+Costs: $12,000
 
-UX/UI Design: Improved UX/UI High Fidelity Prototypes with functioning ease of access and user-personalized tools
-Multiple Languages Settings
-Addition of Saved Contacts
-Light and Dark Mode Options
-Wallet Functionalities:
-Governance Functionalities and Participation
-Staking Functionalities
-Support for Polkadot coin ($DOT)
+**UX/UI Design:** Improved UX/UI High Fidelity Prototypes with functioning ease of access and user-personalized tools
+* Multiple Languages Settings
+* Addition of Saved Contacts
+* Light and Dark Mode Options
+**Wallet Functionalities:**
+* Governance Functionalities and Participation
+* Staking Functionalities
+* Support for Polkadot coin ($DOT)
+* Firefox Browser Extension Support
+
+| Number | Deliverable | Specification |
+| ------------- | ------------- | ------------- |
+| 0a. | License | Apache License, Version 2.0 |
+| 0b. | Description | One Team will deliver a new and improved UX/UI design based on community feedback. These design changes will include quality of life changes as well as focused user experience changes such as language settings, saved contacts, and light and dark mode options, etc… Support for Polkadot’s native currency, $DOT, will also be enabled for interoperability purposes.
+Furthermore, Governance and Staking functionalities will be included for users to be able to participate in these actions through the wallet. Lastly, Cherry Wallet will introduce Firefox Browser Extension support for any user preferring to use this browser. |
+| 0c. | Documentation | We will provide documentation on our Github as well as bi-weekly updates on overall development of Cherry Wallet. |
+| 0d. | Testing | With the initial Milestone 1 delivery, users will be able to download the extension on Chrome or Firefox. |
+| 1. | Core Component | UX/UI Design Quality of Life Improvements (Multiple Language Settings, Saved Contacts, Light and Dark Mode, etc…) | Governance and Staking Functionalities | Support for Polkadot Coin ($DOT) | Firefox Browser Extension Support |
 
 
-## Community Engagement
 
 ## Future Plans
+One Team is a group of skilled and technical individuals with the capability to develop small applications as well as large scale products. With Cherry Wallet, the team intends to continue collecting community feedback to improve and provide improvements to Cherry Wallet. New features, user-experience improvements, and even the addition of newly connected applications within the network is all within the scope of achievement for the team.
+For future iterations of Cherry Wallet, One Team will look to pursue cross-platform functionality with the addition of a mobile wallet and a central dashboard to manage assets relating to the wallet. With user feedback and collective data from the community, One Team will look to provide further services and applications to contribute to making Cherry Network a thriving and enjoyable ecosystem for any new user.
+
+
 
 ## Additional Information
-
-
-
-
-***Please delete this part when done***
-
-Our long-term vision is to have the wallet scale to having more capabilities and provide a higher ease of access to users. 
-Users can have a full web dashboard if they prefer that over the extension.
-This includes creating a mobile application that users can use in iOS, Android, Microsoft Store, etc. 
-We plan on expanding wallet capabilities to hold different assets
-
-
-
-Local Wallet Extension → Cherry Node/Block Services 
-Cherry Blockchain Explorer
-Contacts
+Though this proposal is specifically for the production of Cherry Wallet, One Team looks to take this funding and invest it right back into the community. By allowing us to create a strong financial backing for our team, we can contribute further by becoming a frequent contributor with aspects like staking, node development, validator future responsibilities, as well as being an entity that can provide high level development for years to come.
+As experienced as the members are at One Team, we look to be awarded the grant based off of the product itself, not based on empty promises. No payments or any other funding will be rewarded until Cherry Wallet milestones are reached; which is a core principle for One Team. With this in mind, we only look to be recognized for our work only to be able to give us the ability to continue developing on the Cherry Network Blockchain.
 
