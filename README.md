@@ -75,16 +75,16 @@ E-mail: help.oneteam@gmail.com
 John Duriman - Software Engineer
 
 Aleksander Aleksandrov - Front-End Developer  
-Alek has 8 years of professional front-end development experience in numerous industries. With Javascript as his specialty, he is extremely efficient in creating the front-end experience for users as well as being able to work in a back-end work environment as well. He is also well-versed in frameworks such as Angular, React, and more which allows him to be easily adaptive to any development structure.
+Alek has 8 years of professional front-end development experience in numerous industries. With Javascript as his specialty, he is extremely efficient in creating the front-end experience for users as well as being able to work in a back-end work environment as well. He is also well-versed in frameworks such as Angular, React, and more which allows him to be easily adaptive to any development structure.  
 LinkedIn: https://www.linkedin.com/in/aleksandar-aleksandrov-128b5172/
 
-Brandon Belchar - Software Engineer__
-Brandon has more than 5 years of professional Software Engineer experience ranging from Game Development to Machine Learning. He is proficient in numerous programming languages and is experienced in all parts of the development process. Notably, he is also the CEO of a game development company which has released onto the Steam platform.
+Brandon Belchar - Software Engineer  
+Brandon has more than 5 years of professional Software Engineer experience ranging from Game Development to Machine Learning. He is proficient in numerous programming languages and is experienced in all parts of the development process. Notably, he is also the CEO of a game development company which has released onto the Steam platform.  
 LinkedIn: https://www.linkedin.com/in/brandonbelchar/
 
 
-Jacob Berroya - Product Designer (UX/UI)__
-Jacob has more than 7 years of design experience and currently works in the Secret Network ecosystem as a Product Designer. With years of experience in design, he has overseen the design and launch of a successful blockchain explorer and web wallet for the respective community.
+Jacob Berroya - Product Designer (UX/UI)  
+Jacob has more than 7 years of design experience and currently works in the Secret Network ecosystem as a Product Designer. With years of experience in design, he has overseen the design and launch of a successful blockchain explorer and web wallet for the respective community.  
 Portfolio: https://www.jacoblberroya.com/
 
 
@@ -132,7 +132,8 @@ Costs: $12,000
 | Number | Deliverable | Specification |
 | ------------- | ------------- | ------------- |
 | 0a. | License | Apache License, Version 2.0 |
-| 0b. | Description | One Team will deliver a new and improved UX/UI design based on community feedback. These design changes will include quality of life changes as well as focused user experience changes such as language settings, saved contacts, and light and dark mode options, etc… Support for Polkadot’s native currency, $DOT, will also be enabled for interoperability purposes. Furthermore, Governance and Staking functionalities will be included for users to be able to participate in these actions through the wallet. Lastly, Cherry Wallet will introduce Firefox Browser Extension support for any user preferring to use this browser. |
+| 0b. | Description | One Team will deliver a new and improved UX/UI design based on community feedback. These design changes will include quality of life changes as well as focused user experience changes such as language settings, saved contacts, and light and dark mode options, etc… Support for Polkadot’s native currency, $DOT, will also be enabled for interoperability purposes.  
+Furthermore, Governance and Staking functionalities will be included for users to be able to participate in these actions through the wallet. Lastly, Cherry Wallet will introduce Firefox Browser Extension support for any user preferring to use this browser. |
 | 0c. | Documentation | We will provide documentation on our Github as well as bi-weekly updates on overall development of Cherry Wallet. |
 | 0d. | Testing | With the initial Milestone 1 delivery, users will be able to download the extension on Chrome or Firefox. |
 | 1. | Core Component | UX/UI Design Quality of Life Improvements (Multiple Language Settings, Saved Contacts, Light and Dark Mode, etc…), Governance and Staking Functionalities, Support for Polkadot Coin ($DOT),  Firefox Browser Extension Support |
@@ -140,12 +141,12 @@ Costs: $12,000
 
 
 ## Future Plans
-One Team is a group of skilled and technical individuals with the capability to develop small applications as well as large scale products. With Cherry Wallet, the team intends to continue collecting community feedback to improve and provide improvements to Cherry Wallet. New features, user-experience improvements, and even the addition of newly connected applications within the network is all within the scope of achievement for the team.
+One Team is a group of skilled and technical individuals with the capability to develop small applications as well as large scale products. With Cherry Wallet, the team intends to continue collecting community feedback to improve and provide improvements to Cherry Wallet. New features, user-experience improvements, and even the addition of newly connected applications within the network is all within the scope of achievement for the team.  
 For future iterations of Cherry Wallet, One Team will look to pursue cross-platform functionality with the addition of a mobile wallet and a central dashboard to manage assets relating to the wallet. With user feedback and collective data from the community, One Team will look to provide further services and applications to contribute to making Cherry Network a thriving and enjoyable ecosystem for any new user.
 
 
 
 ## Additional Information
-Though this proposal is specifically for the production of Cherry Wallet, One Team looks to take this funding and invest it right back into the community. By allowing us to create a strong financial backing for our team, we can contribute further by becoming a frequent contributor with aspects like staking, node development, validator future responsibilities, as well as being an entity that can provide high level development for years to come.
+Though this proposal is specifically for the production of Cherry Wallet, One Team looks to take this funding and invest it right back into the community. By allowing us to create a strong financial backing for our team, we can contribute further by becoming a frequent contributor with aspects like staking, node development, validator future responsibilities, as well as being an entity that can provide high level development for years to come.  
 As experienced as the members are at One Team, we look to be awarded the grant based off of the product itself, not based on empty promises. No payments or any other funding will be rewarded until Cherry Wallet milestones are reached; which is a core principle for One Team. With this in mind, we only look to be recognized for our work only to be able to give us the ability to continue developing on the Cherry Network Blockchain.
 
