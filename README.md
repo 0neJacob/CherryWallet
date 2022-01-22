@@ -72,18 +72,18 @@ E-mail: help.oneteam@gmail.com
 
 ### Team’s Experience
 
-John Duriman - Software Engineer
+John Duriman - Software Engineer__
 
-Aleksander Aleksandrov - Front-End Developer
+Aleksander Aleksandrov - Front-End Developer__
 Alek has 8 years of professional front-end development experience in numerous industries. With Javascript as his specialty, he is extremely efficient in creating the front-end experience for users as well as being able to work in a back-end work environment as well. He is also well-versed in frameworks such as Angular, React, and more which allows him to be easily adaptive to any development structure.
 LinkedIn: https://www.linkedin.com/in/aleksandar-aleksandrov-128b5172/
 
-Brandon Belchar - Software Engineer
+Brandon Belchar - Software Engineer__
 Brandon has more than 5 years of professional Software Engineer experience ranging from Game Development to Machine Learning. He is proficient in numerous programming languages and is experienced in all parts of the development process. Notably, he is also the CEO of a game development company which has released onto the Steam platform.
 LinkedIn: https://www.linkedin.com/in/brandonbelchar/
 
 
-Jacob Berroya - Product Designer (UX/UI)
+Jacob Berroya - Product Designer (UX/UI)__
 Jacob has more than 7 years of design experience and currently works in the Secret Network ecosystem as a Product Designer. With years of experience in design, he has overseen the design and launch of a successful blockchain explorer and web wallet for the respective community.
 Portfolio: https://www.jacoblberroya.com/
 
