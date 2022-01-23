@@ -142,11 +142,13 @@ Costs: $12,000
 
 ## Future Plans
 One Team is a group of skilled and technical individuals with the capability to develop small applications as well as large scale products. With Cherry Wallet, the team intends to continue collecting community feedback to improve and provide improvements to Cherry Wallet. New features, user-experience improvements, and even the addition of newly connected applications within the network is all within the scope of achievement for the team.  
+  
 For future iterations of Cherry Wallet, One Team will look to pursue cross-platform functionality with the addition of a mobile wallet and a central dashboard to manage assets relating to the wallet. With user feedback and collective data from the community, One Team will look to provide further services and applications to contribute to making Cherry Network a thriving and enjoyable ecosystem for any new user.
 
 
 
 ## Additional Information
 Though this proposal is specifically for the production of Cherry Wallet, One Team looks to take this funding and invest it right back into the community. By allowing us to create a strong financial backing for our team, we can contribute further by becoming a frequent contributor with aspects like staking, node development, validator future responsibilities, as well as being an entity that can provide high level development for years to come.  
+  
 As experienced as the members are at One Team, we look to be awarded the grant based off of the product itself, not based on empty promises. No payments or any other funding will be rewarded until Cherry Wallet milestones are reached; which is a core principle for One Team. With this in mind, we only look to be recognized for our work only to be able to give us the ability to continue developing on the Cherry Network Blockchain.
 
